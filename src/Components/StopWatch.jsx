@@ -44,7 +44,7 @@ export default function StopWatch() {
               style={{ marginRight: "10px" }}
               variant="contained" color="success"
             >
-              Stop
+              Stop me
             </Button>
             <Button
               onClick={() => {
